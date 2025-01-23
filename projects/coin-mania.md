@@ -16,4 +16,5 @@ summary: "My team developed a game where the user has to traverse across the scr
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-The winner is determined by final coin picked (Red or Blue) and it did not take me and my partner that long to create this game.
+The winner is determined by final coin picked (Red or Blue) and it did not take me and my partner that long to create this game. It was made using turtle graphics in python and the character model and coins were made by my partner Beau Perez. Besides that, the background was pulled off of the internet.
+I coded most of the games basic movement mechanics, UI, and timer.
