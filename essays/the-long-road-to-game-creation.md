@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Overwatch_circle_logo.svg.png">
 
 *Favorite game of all time: Overwatch… this game has inspired me to create games in the future and make a big AAA shooter with an existing company or make a popular indie game with a small group of people.*
 
