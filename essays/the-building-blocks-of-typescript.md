@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/maxresdefault.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/maxresdefault.jpg">
 
 With no prior experience or knowledge of TypeScript I was thrown into a completely new environment. It’s almost as if I was just starting construction on a new house, with many building blocks around me to utilize for it. You see, the only languages I have prior experience with are Java, C++, HTML, and Python, which are arguably way different than TypeScript. This world of TypeScript is new and fresh, something that came as a surprise to me. 
 
