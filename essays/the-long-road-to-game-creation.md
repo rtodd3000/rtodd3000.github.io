@@ -12,42 +12,31 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+*Favorite game of all time: Overwatch… this game has inspired me to create games in the future and make a big AAA shooter with an existing company or make a popular indie game with a small group of people.*
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+Today I am presented with the question of what my interests in Software Engineering are and what skills and experiences I hope to gain in the future. However, before taking ICS 314 at UH Manoa (Software Engineering I), I had little to no knowledge of what Software Engineering was.
+The only thing I knew about it, was that it is something involved in the process of Game Development, which is my dream job in the future. So, in order to figure that out, I had to research what Software Engineering is.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## What is Software Engineering?
 
-Here's what I think: the difficult things will always be difficult.
+“Software engineering is the application of engineering principles to the design, development, testing, and maintenance of software systems.” as described by ChatGPT. 
+I know that Software Engineering is also the reason we have video games, mobile applications, and more things that require a lot of depth and backing to them. Having the passion for developing video games, Software Engineering stands out as an essential skill to have for my future. 
 
-## In the context of programming
+Yet I ask myself, how long will the process of learning Software Engineering to the fullest take? After a quick google search I found that it takes people up to 4 years to gain the experience necessary to be a lead software engineer.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## Why I want to make video games
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+I want to make video games because they have the unique ability to immerse players in new worlds, tell compelling stories, and connect people through shared experiences. Games like Overwatch have inspired me by showing how design, teamwork, and creativity can come together to create something truly impactful. I want to be part of the process that brings these experiences to life, combining technical skills with artistic vision to create games that resonate with players worldwide.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Another dream of mine is to own my own studio that produces video games. Who knows, maybe one day this studio of mine might start producing AAA games in the future. All I know is that I want my games to really connect with the player and give them an escape from reality. Because for me, that’s what games have always been. Being the competitive person that I am, it also gives me a chance to challenge and prove myself. That accomplishment you feel from achieving a higher rank or finally beating a level/boss is irreplaceable after all.
 
-## In the context of engineering
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## The skills and experiences I want to gain
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+The skills and experiences I want to gain in Software Engineering include learning how to design and implement efficient code, understanding software architecture, and mastering tools like version control systems and project management frameworks.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+I also want to improve my teamwork and communication skills by collaborating with others to solve complex problems.I hope to gain a lot of experience in game development technologies such as game engines, graphics programming, and AI design, which will be crucial for my future in Game Development.
 
-## In the context of relationships
+## My end goal with Software Engineering!
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+My ultimate goal with Software Engineering is to contribute to the creation of innovative and memorable games, whether by working for a renowned AAA game studio or by leading a small indie team to produce something unique. I aim to use my skills to push the boundaries of what games can achieve, creating experiences that inspire others, just as Overwatch has inspired me. By combining my passion for gaming with the technical knowledge and collaborative expertise I gain through this Software Engineering class and beyond, I hope to leave a lasting impact on the gaming industry.
