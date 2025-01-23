@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Spotify_App_Logo.svg.png
 title: "Emotify"
 date: 2023-12-22
 published: true
