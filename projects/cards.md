@@ -10,6 +10,8 @@ labels:
 summary: "My group designed an interactive, turn-based spoons card game for my Java college course."
 ---
 
+<img class="img-fluid" src="../img/spoons-2.jpg">
+
 For a project in my Java programming class, me and two of my friends made a console game in VScode based on the card game called Spoons. This game would run until all of the spoons were taken and someone loses. It was a project that was a big part of my grade and took many sleepless nights to complete due to the unqiue algorithm of the game.
 
 For this project, I worked a lot on the deck and card classes while me and my two other group members worked on the game class together. My main prority was to just get the algorithm of the game to work, specifically this part of the loop running the game:
