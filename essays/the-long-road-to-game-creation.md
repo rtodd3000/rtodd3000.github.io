@@ -41,5 +41,6 @@ I also want to improve my teamwork and communication skills by collaborating wit
 
 My ultimate goal with Software Engineering is to contribute to the creation of innovative and memorable games, whether by working for a renowned AAA game studio or by leading a small indie team to produce something unique. I aim to use my skills to push the boundaries of what games can achieve, creating experiences that inspire others, just as Overwatch has inspired me. By combining my passion for gaming with the technical knowledge and collaborative expertise I gain through this Software Engineering class and beyond, I hope to leave a lasting impact on the gaming industry.
 
-Credits:
+## Credits
+
 I only used ChatGPT to help structure my body paragraphs at first and then I went and edited the paragraphs to reflect my voice more. The introduction paragraph is purely my own work though.
