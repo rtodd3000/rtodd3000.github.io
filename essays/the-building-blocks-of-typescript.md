@@ -32,10 +32,10 @@ The reason the functions serve as the walls of my house is because they are the 
 Now for my Roof. Typescript basics make up most of my house, but the reason the ease of using it makes up my roof is because that is what completes it. For example, instead of having to define your functions like in Java:
 public int sum(int x, int y){
 	Return x+y;
-}
+ }
 
 You can instead define them like:
-	const sum = (x: number, y: number): number => x + y;
+const sum = (x: number, y: number): number => x + y;
 
 reducing the amount of lines you need for it.
 
