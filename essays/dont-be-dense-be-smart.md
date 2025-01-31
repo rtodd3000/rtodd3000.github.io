@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Untitled.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/Untitled.png">
 
 # What is a Smart Question?
 Starting the journey of becoming a full fledged Software Engineer is no easy task and you are bound to encounter some roadblocks along the way. What determines your success in overcoming them lies in how, where, and when you ask your coding questions. These questions should be formatted as **Smart** questions, which are described as precise, clear, and straight to the point. Along with this, your question should be one that you were not able to solve with prior effort, this way you can encourage collaboration, get clear answers, and gain and provide knowledge to others who had the same questions as you at the same time. 
