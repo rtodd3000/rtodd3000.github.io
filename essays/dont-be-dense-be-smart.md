@@ -19,14 +19,14 @@ Jumping to ask questions with no clarity and hundreds of lines of code leads to 
 
 
 ## Smart Question 
-**Question:** Why is processing a sorted array faster than processing an unsorted array?
+**Question:** [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 <br />**How is it Smart:** Not only is the question very straightforward, but the user also provided examples of their code in Java and C++ and explained their thought process and steps that led to their confusion. 
 <br />**Results:** After looking at a couple of the responses given for this question, I found that a lot of the answers were concise and used real-life analogies to help other users understand the concept of why sorted arrays process faster than unsorted ones.
 Furthermore, the result of such a good question was a big upvote from the community with 27,407 upvotes and 25 very detailed answers, each providing different angles and insights to the question. 
 
 
 ## Not-So-Smart Question
-**Question:** Issue with downloading file via Browser-use
+**Question:** [Issue with downloading file via Browser-use](https://stackoverflow.com/questions/79384448/issue-with-downloading-file-via-browser-use)
 <br />**How is it not Smart**: Not only is the question very broad and general, but their description of their troubles shows no signs of effort to fix it themselves. They just describe how they wrote web-automation to download a file by browser-use tool, but that it sometimes works and sometimes doesn't. Afterwards they just pasted their entire code and assumed the issue was one of two lines, displaying the lack of effort in resolving the issue themselves. This violates the entire premise of a Smart question to begin with and the guidelines of Stack Overflow.
 <br />**Results:** Only one person responded to this question and they were generous enough to provide what they thought were the lines of code that needed to be fixed, yet the user who posted the question never follows up and says if it worked or not. Along with this, there was no explanation behind the answer, just a straightforward: "This is your issue". As a result, nobody will be able to learn from this and only provides a solution to the problem without any understanding of why your code was wrong in the first place.
 
