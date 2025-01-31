@@ -20,7 +20,7 @@ Jumping to ask questions with no clarity and hundreds of lines of code leads to 
 
 ## Smart Question 
 **Question:** Why is processing a sorted array faster than processing an unsorted array?
-**How is it Smart:** Not only is the question very straightforward, but the user also provided examples of their code in Java and C++ and explained their thought process and steps that led to their confusion. 
+<br />**How is it Smart:** Not only is the question very straightforward, but the user also provided examples of their code in Java and C++ and explained their thought process and steps that led to their confusion. 
 **Results:** After looking at a couple of the responses given for this question, I found that a lot of the answers were concise and used real-life analogies to help other users understand the concept of why sorted arrays process faster than unsorted ones.
 Furthermore, the result of such a good question was a big upvote from the community with 27,407 upvotes and 25 very detailed answers, each providing different angles and insights to the question. 
 
