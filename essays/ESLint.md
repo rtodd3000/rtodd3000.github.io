@@ -11,10 +11,10 @@ labels:
   - Coding Standards
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 
-## Coding Standards: and the Demise of the Coder's Soul
+# Coding Standards: and the Demise of the Coder's Soul
 Coding Standards are a guideline that has been well renowned within the coding community. They are meant to make code look cleaner and readable for other collaborators or people to look at. Although they reinforce good habits and provide long-term use, during this class it has almost become tedious to adhere to them. Especially for WODs, keeping a coding standard debugger's fixes like ESLints' in mind can be difficult.
 
 
