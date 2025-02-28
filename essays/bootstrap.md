@@ -11,7 +11,7 @@ labels:
   - UI Framework
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/soft-serve-vanilla-ice-cream-recipe.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/soft-serve-vanilla-ice-cream-recipe.png">
 
 Going from one ice cream place to another, you start to notice that one Vanilla is sweeter and harder than the other, or one chocolate is richer than the other. All of the different shops have differing textures and flavors amongst each other for each of their flavors. However, one thing stays consistent all around: SOFT SERVE! 
 
@@ -27,7 +27,6 @@ Some popular UI Frameworks used in web development include React, Bootstrap, etc
 ## Soft-Serve is easy to look at and taste, but requires mastery:
 Making just a website with CSS and HTML is very simple, but the simpleness of it is something not many people strive for. Just like Soft-Serve is enjoyed by many, it is enjoyed for its simple, yet diverse flavor and texture. A lot of people like interactivity and want their websites to shine rather than be dull and boring. Take these two websites for example:
 
-Island Snow + Malcolm Todd
 <img width="400px" class="rounded float-start pe-4" src="../img/difficulty/Screenshot 2025-02-24 at 6.42.07 PM.png">
 <img width="400px" class="rounded float-start pe-4" src="../img/difficulty/badexample.jpg">
 
