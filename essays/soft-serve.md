@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Soft serve ice cream has a smooth consistency, just like UI Frameworks!"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-27
 published: true
@@ -12,8 +12,6 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 Going from one ice cream place to another, you start to notice that one Vanilla is sweeter and harder than the other, or one chocolate is richer than the other. All of the different shops have differing textures and flavors amongst each other for each of their flavors. However, one thing stays consistent all around: SOFT SERVE! 
 
