@@ -27,8 +27,8 @@ Some popular UI Frameworks used in web development include React, Bootstrap, etc
 ## Soft-Serve is easy to look at and taste, but requires mastery:
 Making just a website with CSS and HTML is very simple, but the simpleness of it is something not many people strive for. Just like Soft-Serve is enjoyed by many, it is enjoyed for its simple, yet diverse flavor and texture. A lot of people like interactivity and want their websites to shine rather than be dull and boring. Take these two websites for example:
 
-<img width="400px"  height="500px" class="rounded float-start pe-4" src="../img/Screenshot 2025-02-24 at 6.42.07 PM.png">
-<img width="400px" height="500px" class="rounded float-start pe-4" src="../img/badexample.jpg">
+<img width="400px"  height="400px" class="rounded float-start pe-4" src="../img/Screenshot 2025-02-24 at 6.42.07 PM.png">
+<img width="400px" height="400px" class="rounded float-start pe-4" src="../img/badexample.jpg">
 
 Although they both look nice and have the build of a website, one is static and does not let the user interact with it, while the other (the Malcom Todd website) lets the user navigate through the entire website by clicking on any of the buttons, including the title!. One was made with html and css, whilst the other was made with bootstrap. My personal experience with bootstrap has been a difficult learning process with many different column/row alignments, but I have found it very helpful in designing websites that I think people will enjoy in the long run.
 
