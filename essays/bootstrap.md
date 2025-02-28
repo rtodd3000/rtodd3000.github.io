@@ -24,7 +24,7 @@ A UI Framework is defined as a collection of pre-made tools, templates, and code
 
 Some popular UI Frameworks used in web development include React, Bootstrap, etc. that include these things for the developer to utilize. However, learning some of these can be as difficult as learning a new coding language so why learn them?
 
-## Soft-Serve is easy to look at and taste, but requires mastery:
+## Soft-Serve is easy to look at and taste, but requires mastery
 Making just a website with CSS and HTML is very simple, but the simpleness of it is something not many people strive for. Just like Soft-Serve is enjoyed by many, it is enjoyed for its simple, yet diverse flavor and texture. A lot of people like interactivity and want their websites to shine rather than be dull and boring. Take these two websites for example:
 
 <img width="400px"  height="400px" class="rounded float-start pe-4" src="../img/Screenshot 2025-02-24 at 6.42.07 PM.png">
