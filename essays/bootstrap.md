@@ -30,7 +30,7 @@ Making just a website with CSS and HTML is very simple, but the simpleness of it
 <img width="400px"  height="500px" class="rounded float-start pe-4" src="../img/Screenshot 2025-02-24 at 6.42.07 PM.png">
 <img width="400px" height="500px" class="rounded float-start pe-4" src="../img/badexample.jpg">
 
-<br>Although they both look nice and have the build of a website, one is static and does not let the user interact with it, while the other (the Malcom Todd website) lets the user navigate through the entire website by clicking on any of the buttons, including the title!. One was made with html and css, whilst the other was made with bootstrap. My personal experience with bootstrap has been a difficult learning process with many different column/row alignments, but I have found it very helpful in designing websites that I think people will enjoy in the long run.
+Although they both look nice and have the build of a website, one is static and does not let the user interact with it, while the other (the Malcom Todd website) lets the user navigate through the entire website by clicking on any of the buttons, including the title!. One was made with html and css, whilst the other was made with bootstrap. My personal experience with bootstrap has been a difficult learning process with many different column/row alignments, but I have found it very helpful in designing websites that I think people will enjoy in the long run.
 
 ## UI and Soft-Serve are not so different!
 
