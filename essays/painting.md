@@ -16,13 +16,13 @@ labels:
 Common problems all artists run into is imagining their painting on a canvas. Starting from the beginning is the hardest part, and often requires a lot of imaginitivity. If all artists had no references and direction, then the canvas may be blank for hours! However, thanks to the design patterns of reusing different shapes, color combinations, etc, it allows them to paint their ideal painting to go from something like this: 
 
 <div style="margin-bottom: 1rem;">
-  <img src="/img/canvas1.jpg" alt="Blank canvas" width="150" style="border-radius: 8px;">
+  <img src="/img/canvas1.jpg" alt="Blank canvas" width="250" style="border-radius: 8px;">
 </div>
 
 <p>to this! :</p>
 
 <div>
-  <img src="/img/art.jpg" alt="Completed painting" width="150" style="border-radius: 8px;">
+  <img src="/img/art.jpg" alt="Completed painting" width="250" style="border-radius: 8px;">
 </div>
 
 
