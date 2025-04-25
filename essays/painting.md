@@ -13,13 +13,11 @@ labels:
 ---
 
 # Imagining the Painting
-Common problems all artists run into is imagining their painting on a canvas. Starting from the beginning is the hardest part, and often requires a lot of imaginitivity. If all artists had no references and direction, then the canvas may be blank for hours! However, thanks to the design patterns of reusing different shapes, color combinations, etc, it allows them to paint their ideal painting to go from something 
-
-like this:
-<img width="500px" class="rounded float-start pe-4" src="../img/canvas1.jpg">
+Common problems all artists run into is imagining their painting on a canvas. Starting from the beginning is the hardest part, and often requires a lot of imaginitivity. If all artists had no references and direction, then the canvas may be blank for hours! However, thanks to the design patterns of reusing different shapes, color combinations, etc, it allows them to paint their ideal painting to go from something like this:
+<img width="200px" class="rounded float-start pe-4" src="../img/canvas1.jpg">
 
 to this! : 
-<img width="500px" class="rounded float-start pe-4" src="../img/art.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/art.jpg">
 
 Likewise, software engineers often struggle with designing their websites or apps from scratch. The ideal UI or system architecture can feel just as intimidating as a blank canvas. It should be beautiful, functional, and intricate. This way, all software engineers can achieve their ideal UI and backend functionality for any website, app, etc. that they see fit in the easiest way possible. However, much like painting, these "blueprints" will never make your whole creation for you. These design patterns just tell you the necessary components for a good website.
 
