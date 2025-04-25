@@ -19,7 +19,11 @@ like this: <img width="200px" class="rounded float-start pe-4" src="../img/canva
 
 to this! : <img width="200px" class="rounded float-start pe-4" src="../img/art.jpg">
 
+
+
 Likewise, software engineers often struggle with designing their websites or apps from scratch. The ideal UI or system architecture can feel just as intimidating as a blank canvas. It should be beautiful, functional, and intricate. This way, all software engineers can achieve their ideal UI and backend functionality for any website, app, etc. that they see fit in the easiest way possible. However, much like painting, these "blueprints" will never make your whole creation for you. These design patterns just tell you the necessary components for a good website.
+
+
 
 # The Flow of the Brush and Water
 Every painter relies on a brush—just one, used carefully to apply every stroke. In software, this is like the Singleton pattern, where a central component—like app-wide state in React—needs to exist only once to coordinate everything from theme to authentication. 
