@@ -24,7 +24,7 @@ Common problems all artists run into is imagining their painting on a canvas. St
 <div>
   <img src="/img/art.jpg" alt="Completed painting" width="250" style="border-radius: 8px;">
 </div>
-
+<br><br>
 
 Likewise, software engineers often struggle with designing their websites or apps from scratch. The ideal UI or system architecture can feel just as intimidating as a blank canvas. It should be beautiful, functional, and intricate. This way, all software engineers can achieve their ideal UI and backend functionality for any website, app, etc. that they see fit in the easiest way possible. However, much like painting, these "blueprints" will never make your whole creation for you. These design patterns just tell you the necessary components for a good website.
 
