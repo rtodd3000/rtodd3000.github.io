@@ -24,10 +24,10 @@ If the answer to both of them was no, I would make sure to have a minimum of 2-3
 
 
 # II. Effort Estimation Planning Benefits
-To me, effort estimations served to be time limits for myself. If I could complete the issue within the self-assigned time, then I was succeeding as a Software Engineer. Even if I went way over the time, it still gave me a benchmark to go by and see if I actually had the ability to meet it. Looking at the effort estimations in this way made me see the benefits, otherwise, it really did not do much for me. Effort estimations became unnecessary to me towards the finalization of <strong><i>Manoa Compass</i> because of the frustrations and difficulties I was experiencing with learning about AI scripts and our database as a whole.
+To me, effort estimations served to be time limits for myself. If I could complete the issue within the self-assigned time, then I was succeeding as a Software Engineer. Even if I went way over the time, it still gave me a benchmark to go by and see if I actually had the ability to meet it. Looking at the effort estimations in this way made me see the benefits, otherwise, it really did not do much for me. Effort estimations became unnecessary to me towards the finalization of <strong><i>Manoa Compass</i></strong> because of the frustrations and difficulties I was experiencing with learning about AI scripts and our database as a whole.
 
 # III. Effort Estimation Tracking Benefits
-When it comes to tracking these set estimations, I saw it as nothing more than a chore at times, being more concerned with the quality and correctness of my code rather than finishing it in a set time. The in-class WODs definitely accustomed me to these <i>"timed"<i> coding sessions, but for this final project I wanted to make sure I not only did it correctly, but also <b>understood</b> what I was doing. I used AI heavily in both the WODs and this final project, so ensuring I understand the changes and code AI writes for me is crucial for my future as a Software Engineer. 
+When it comes to tracking these set estimations, I saw it as nothing more than a chore at times, being more concerned with the quality and correctness of my code rather than finishing it in a set time. The in-class WODs definitely accustomed me to these <i>"timed"</i> coding sessions, but for this final project I wanted to make sure I not only did it correctly, but also <b>understood</b> what I was doing. I used AI heavily in both the WODs and this final project, so ensuring I understand the changes and code AI writes for me is crucial for my future as a Software Engineer. 
 
 
 # IV. Tracking my Effort
@@ -35,7 +35,7 @@ I tracked my effort using the VSCode timer extension that tracks your time spent
 
 
 # V. Overhead in Effort Tracking
-Personally, the overhead in my experience was at a medium level. It never got to the point where I was unable to work on the project, but it was definitely tedious at times. As mentioned earlier, I almost always forgot to stop the timer to track my work and had to guess a lot on how long each of my issues actually took me to complete. Furthermore, making an estimate always took me a good 20-30 minutes to make sure I was making something reasonable for myself according to my own ability. In the end, I am thankful for the benefits it provided me and do think it can be a useful component of a Software Engineering project, <strong><i>ONLY</i> if it is as minimal in work as it was for this class.
+Personally, the overhead in my experience was at a medium level. It never got to the point where I was unable to work on the project, but it was definitely tedious at times. As mentioned earlier, I almost always forgot to stop the timer to track my work and had to guess a lot on how long each of my issues actually took me to complete. Furthermore, making an estimate always took me a good 20-30 minutes to make sure I was making something reasonable for myself according to my own ability. In the end, I am thankful for the benefits it provided me and do think it can be a useful component of a Software Engineering project, <strong><i>ONLY</i></strong> if it is as minimal in work as it was for this class.
 
 
 
