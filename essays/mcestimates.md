@@ -35,7 +35,7 @@ I tracked my effort using the VSCode timer extension that tracks your time spent
 
 
 # IV. Overhead in Effort Tracking
-Personally, the overhead in my experience was at a medium level. It never got to the point where I was unable to work on the project, but it was definitely tedious at times. As mentioned earlier, I almost always forgot to stop the timer to track my work and had to guess a lot on how long each of my issues actually took me to complete. Furthermore, making an estimate always took me a good 20-30 minutes to make sure I was making something reasonable for myself according to my own ability. In the end, I am thankful for the benefits it provided me and do think it can be a useful component of a Software Engineering project, <strong><i>ONLY</strong></i> if it is as minimal in work as it was for this class.
+Personally, the overhead in my experience was at a medium level. It never got to the point where I was unable to work on the project, but it was definitely tedious at times. As mentioned earlier, I almost always forgot to stop the timer to track my work and had to guess a lot on how long each of my issues actually took me to complete. Furthermore, making an estimate always took me a good 20-30 minutes to make sure I was making something reasonable for myself according to my own ability. In the end, I am thankful for the benefits it provided me and do think it can be a useful component of a Software Engineering project, <strong><i>ONLY</i> if it is as minimal in work as it was for this class.
 
 
 
