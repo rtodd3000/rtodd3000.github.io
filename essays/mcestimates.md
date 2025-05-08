@@ -6,9 +6,9 @@ title: "Experience IDPM Effort Estimation and Tracking"
 date: 2025-05-08
 published: true
 labels:
-  - VSCode
+  - VSCode Timer
   - React
-  - Coding Standards
+  - Bootstrap
   - Manoa Compass
 ---
 
@@ -26,12 +26,12 @@ If the answer to both of them was no, I would make sure to have a minimum of 2-3
 # II. Effort Estimation Planning Benefits
 To me, effort estimations served to be time limits for myself. If I could complete the issue within the self-assigned time, then I was succeeding as a Software Engineer. Even if I went way over the time, it still gave me a benchmark to go by and see if I actually had the ability to meet it. Looking at the effort estimations in this way made me see the benefits, otherwise, it really did not do much for me. Effort estimations became unnecessary to me towards the finalization of <strong><i>Manoa Compass</i></strong> because of the frustrations and difficulties I was experiencing with learning about AI scripts and our database as a whole.
 
-# III. Effort Estimation Tracking Benefits
-When it comes to tracking these set estimations, I saw it as nothing more than a chore at times, being more concerned with the quality and correctness of my code rather than finishing it in a set time. The in-class WODs definitely accustomed me to these <i>"timed"</i> coding sessions, but for this final project I wanted to make sure I not only did it correctly, but also <b>understood</b> what I was doing. I used AI heavily in both the WODs and this final project, so ensuring I understand the changes and code AI writes for me is crucial for my future as a Software Engineer. 
+# III. Effort Estimation Tracking Downsides
+When it comes to tracking these set estimations, I saw it as nothing more than a chore at times, being more concerned with the quality and correctness of my code rather than finishing it in a set time. The in-class WODs definitely accustomed me to these <strong><i>"timed"</i></strong> coding sessions, but for this final project I wanted to make sure I not only did it correctly, but also <b>understood</b> what I was doing. I used AI heavily in both the WODs and this final project, so ensuring I understand the changes and code AI writes for me is crucial for my future as a Software Engineer. 
 
 
 # IV. Tracking my Effort
-I tracked my effort using the VSCode timer extension that tracks your time spent coding in VSCode from the moment you open the application. Unfortunately, Since I often never closed VSCode, I was left to estimate the time I actually spent coding my issues and the time I spent researching/using AI for help. The timer does not stop until you close it, leaving a massive time such as 10-12 hours when I was ready to finally close it for the day. Oftentimes, the issues I was working on took me an immense amount of time to complete due to frustrations with the schema variables' naming conflicts. For instance, in Milestone 2, I had a major problem where my issues were to setup the profile and sign-up process of our website. Everything was working in a reasonable time of 4 hours, <i>(2 hours for each problem)</i>, but my group members informed me that I was using the old schema. Unfortunately, this meant I had to do it all over again with the new schema variables. It was a quick, but very unnecessary conflict that I put myself through. Thankfully, I never had to go through this again and my actual effort timing would usually always match up to my estimates. 
+I tracked my effort using the VSCode timer extension that tracks your time spent coding in VSCode from the moment you open the application. Unfortunately, since I often never closed VSCode, I was left to estimate the time I actually spent coding my issues and the time I spent researching/using AI for help, with most entries being within ±1 hour of reality. The timer does not stop until you close it, leaving a massive time such as 10-12 hours when I was ready to finally close it for the day. Oftentimes, the issues I was working on took me an immense amount of time to complete due to frustrations with the schema variables' naming conflicts. For instance, in Milestone 2, I had a major problem where my issues were to setup the profile and sign-up process of our website. Everything was working in a reasonable time of 4 hours, <strong><i>(2 hours for each problem)</i></strong>, but my group members informed me that I was using the old schema. Unfortunately, this meant I had to do it all over again with the new schema variables. It was a quick, but very unnecessary conflict that I put myself through. Thankfully, I never had to go through this again and my actual effort timing would usually always match up to my estimates. 
 
 
 # V. Overhead in Effort Tracking
