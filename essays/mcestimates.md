@@ -16,7 +16,7 @@ labels:
 
 
 # I. How did you make your effort estimates?
-Effort estimates were always made based upon my own abilities. I will admit, my skills were very surface level prior to working on this project. All I knew about doing this project was making front-end things look very clean and formatted via Bootstrap and React components. Along with this, utilizing the prisma database was also a commonality I was familiar with thanks to assignments <strong>Digits</strong> and <strong>Bowfolios</br>. Yet, this was never a deep understanding of databases, as I was more focused on getting the assignments done rather than truly learning how to utilize them. Therefore, I always tried to ask myself two things: <br>
+Effort estimates were always made based upon my own abilities. I will admit, my skills were very surface level prior to working on this project. All I knew about doing this project was making front-end things look very clean and formatted via Bootstrap and React components. Along with this, utilizing the prisma database was also a commonality I was familiar with thanks to assignments <strong>Digits</strong> and <strong>Bowfolios</strong>. Yet, this was never a deep understanding of databases, as I was more focused on getting the assignments done rather than truly learning how to utilize them. Therefore, I always tried to ask myself two things: <br>
 1. Can I do this without <i>ChatGPT?</i>
 2. Do I have the time to do this in one sitting?
 
@@ -35,7 +35,7 @@ I tracked my effort using the VSCode timer extension that tracks your time spent
 
 
 # IV. Overhead in Effort Tracking
-Personally, the overhead in my experience was at a medium level. It never got to the point where I was unable to work on the project, but it was definitely tedious at times. As mentioned earlier, I almost always forgot to stop the timer to track my work and had to guess a lot on how long each of my issues actually took me to complete. Furthermore, making an estimate always took me a good 20-30 minutes to make sure I was making something reasonable for myself according to my own ability. In the end, I am thankful for the benefits it provided me and do think it can be a useful component of a Software Engineering project, <b><i>ONLY</b></i> if it is as minimal in work as it was for this class.
+Personally, the overhead in my experience was at a medium level. It never got to the point where I was unable to work on the project, but it was definitely tedious at times. As mentioned earlier, I almost always forgot to stop the timer to track my work and had to guess a lot on how long each of my issues actually took me to complete. Furthermore, making an estimate always took me a good 20-30 minutes to make sure I was making something reasonable for myself according to my own ability. In the end, I am thankful for the benefits it provided me and do think it can be a useful component of a Software Engineering project, <strong><i>ONLY</strong></i> if it is as minimal in work as it was for this class.
 
 
 
