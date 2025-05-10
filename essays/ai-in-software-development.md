@@ -9,7 +9,6 @@ labels:
   - AI
   - Software Engineering Education
   - ChatGPT
-  - 
 ---
 
 
