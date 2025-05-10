@@ -57,7 +57,7 @@ AI has been a heavily debated tool in the world of Software Engineering and even
 <strong>12. Documenting code:</strong> I never asked AI to specifically document my code, rather, it would already write comments on its own when writing code for me. One issue I did have with AI was the omission of my comments throughout my code, which I had to specify for it to not delete them.
 
 
-<strong>13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”:</strong> I relied on the command <i>npm run lint:fix</i> to fix all of my lint errors. In my previous experiences, AI is not good at fixing lint errors so I stuck to my own knowledge on the matter. For quality assurances in my code, I would frequently ask AI these types of questions during my final project.
+<strong>13. Quality assurance e.g. “What’s wrong with this code” or “Fix the ESLint errors”:</strong> I relied on the command <i>npm run lint:fix</i> to fix all of my lint errors. In my previous experiences, AI is not good at fixing lint errors so I stuck to my own knowledge on the matter. For quality assurances in my code, I would frequently ask AI these types of questions during my final project.
 
 
 <strong>14. Other uses in ICS 314 not listed:</strong> I explained all of the ways I utilized AI to my benefit in this class already.
