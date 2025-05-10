@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI in Software Development"
+title: "Reflecting on the Use of AI in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-09
 published: true
@@ -18,7 +18,7 @@ labels:
 AI has been a heavily debated tool in the world of Software Engineering and even education. Ever since the emergence of ChatGPT, its use in the educational world has been very controversial in regards to, essentially, giving students a "free pass" on homeworks, exams, and more. Critical thinking skills have diminished compared to before its existence because many students choose to heavily rely on AI to do their work for them. This became apparent to me in my <i>ICS 311 Algorithms</i> class because the homework scores compared to exam scores were completely off compared to the times before AI was popularized. Leading into Software Engineering, this tool has also been heavily utilized to solve difficult problems and even write whole code blocks for students.
 
 
-# Personal Experience with AI
+# II. Personal Experience with AI
 
 
 <strong>1. Experience WODs e.g. E18:</strong> For these WODs, I always tried to follow the instructions and attempted to finish the WOD myself before turning to AI. I would only turn to AI after I could not complete the first attempt in <i>Rx</i> timing. Firstly, I would review the screencast that detailed a completion of the WOD by an ICS 314 professor where I would then try to apply the new steps to my second attempt. If during the second attempt I could not complete the WOD on my own, I would turn to AI for some help. One instance of this for me was in the <strong><i>Digits</i></strong> assignment, where I had major issues with my database duplicating items. I remember specifically asking ChatGPT how this problem could be occurring in my database and was eventually able to fix it. Unfortunately, this came after the due date, since ChatGPT was not being very helpful when I was asking while I was originally doing the assignment. This goes to show that AI cannot solve all of your problems magically, and a basic understanding of what you are doing is crucial before asking AI for assistance.
@@ -57,7 +57,7 @@ AI has been a heavily debated tool in the world of Software Engineering and even
 <strong>12. Documenting code:</strong> I never asked AI to specifically document my code, rather, it would already write comments on its own when writing code for me. One issue I did have with AI was the omission of my comments throughout my code, which I had to specify for it to not delete them.
 
 
-<strong>13. Quality assurance e.g. “What’s wrong with this code <code here></code here>” or “Fix the ESLint errors in <code here></code here>”:</strong> I relied on the command <i>npm run lint:fix</i> to fix all of my lint errors. In my previous experiences, AI is not good at fixing lint errors so I stuck to my own knowledge on the matter. For quality assurances in my code, I would frequently ask AI these types of questions during my final project.
+<strong>13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”:</strong> I relied on the command <i>npm run lint:fix</i> to fix all of my lint errors. In my previous experiences, AI is not good at fixing lint errors so I stuck to my own knowledge on the matter. For quality assurances in my code, I would frequently ask AI these types of questions during my final project.
 
 
 <strong>14. Other uses in ICS 314 not listed:</strong> I explained all of the ways I utilized AI to my benefit in this class already.
@@ -90,7 +90,7 @@ If I did not exist while I took this class, I think that it would have been a lo
 # VII. Future Considerations:
 
 
-As we know, AI is an ever growing tool that is being implemented across all areas of Software Engineering and Computer Science education as a whole. It is inevitable that it will be used in an educational <strong><i>AND</i></strong> professional setting. The important part is that we as students learn how to write standard code ourselves rather than relying completely on AI to do this for us. AI can easily write code to solve simple tasks, so if that is our only area of expertise, we risk the reality of not landing a job in our designated field. Our focus might have to shift to other areas of Software Engineering such as framework and algorithmic designs. This way, students are learning how to do things that AI cannot do so easily, aiding us with knowledge that <strong><i>CAN</i></strong> assist students with obtaining a well-paying job.
+As we know, AI is an ever growing tool that is being implemented across all areas of Software Engineering and Computer Science education as a whole. It is inevitable that it will be used in an educational <strong><i>AND </i></strong> professional setting. The important part is that we as students learn how to write standard code ourselves rather than relying completely on AI to do this for us. AI can easily write code to solve simple tasks, so if that is our only area of expertise, we risk the reality of not landing a job in our designated field. Our focus might have to shift to other areas of Software Engineering such as framework and algorithmic designs. This way, students are learning how to do things that AI cannot do so easily, aiding us with knowledge that <strong><i>CAN </i></strong> assist students with obtaining a well-paying job.
 
 
 # VIII. Conclusion:
