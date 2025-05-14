@@ -14,8 +14,6 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/premium_photo-1678566111481-8e275550b700.jpg">
 
-Design Patterns, User Interface Frameworks
-
 # Introduction
 The world of Software Engineering is a very vast, fulfilling one. Whether it comes to back-end development or front-end development, both sides have their own knick knacks to benefit the developer and make their code/website clean, organized, and efficient. In <i>ICS 314</i> so far, I have found two areas of Software Engineering that contributed greatly to my education and project management for my final, <strong><i>Manoa Compass</i></strong>. These would be <strong>Design Patterns</strong> and <strong>Agile Project Management Style</strong>.
 
