@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Consistency >"
+title: "Soft Serve ice cream ensures a smooth consistency, just like Bootstrap!"
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 published: false
@@ -13,16 +13,15 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## TBD
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Have you ever wondered why ice cream in some places tastes different? Not every place is going to make their Vanillas, Chocolates, etc. the same exact way, there will always be some sort of differentiation. However, the one thing that is consistent amongst these places is their soft serve ice cream. Much like soft serve ice cream, with UI Frameworks, you are ensuring consistency and faster development time when using them.
 
-## What’s a smart question?
+## What is a UI Framework?
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+In simple terms, a UI Framework is a collection of pre-made tools, templates, and code libraries, made to help the developer create user interfaces. Typically, this is seen in developing menu bars, buttons, dropdowns, etc. on a website, which is why UI Frameworks are so essential for web development. Almost every website you see uses a framework, with the most popular choice usually being React. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
+But I guess the question now is, how exactly do these frameworks speed up our process and give us that soft serve consistency everytime?
 ```
 Q: python date of the previous month
 

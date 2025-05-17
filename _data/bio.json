@@ -16,12 +16,14 @@
   "interests": [
     { "name": "Game Development" },
     { "name": "Software Engineering" },
+    { "name": "AI Research" },
+    { "name": "Music" },
     { "name": "Running" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C++", "Java", "Python", "NextJS", "React" ]
+      "keywords": [ "C++", "Java", "Python", "Nextjs", "React", "Prisma ORM", "React Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
@@ -51,7 +53,7 @@
       "website": "",
       "startDate": "2023",
       "endDate": "Present",
-      "summary": "Keep the store maintained while assisting customers when I can",
+      "summary": "Keep the store maintained while assisting customers",
       "highlights": [
         "Keep track of inventory and cleanliness of the store",
         "Navigate Polo Ralph Lauren Services for customers: apps, website, promotions, etc."
@@ -77,6 +79,12 @@
       "awarder": "Chapman University",
       "summary": "Scholarships awarded to students who maintained a GPA of 3.8 or higher for the semester."
     },
+    {
+      "title": "Runner-Up for Best Overall Hack",
+      "date": "2024",
+      "awarder": "SacHacks",
+      "summary": "Earned a second place postiioning for my team's hack, Emotify."
+    }
   ],
   "references": [
     {
