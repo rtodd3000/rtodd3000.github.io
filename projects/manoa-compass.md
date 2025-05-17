@@ -30,9 +30,8 @@ Manoa Compass is a web application developed by myself and 4 other students buil
 # Contribution
 My role in the project was to provide dynamic backend code to match the UI for the onboarding process and profile page. My focus for this area was to make the signup as simple and inclusive as possible for any students signing up. Furthermore, editing the user profile and adding and displaying RSVPed and Followed events and clubs on their page allowed for an enhanced experience
 
-<img class="img-fluid" src="../img/landingpage.png">
-<img class="img-fluid" src="../img/userprofile.png">
-# 
+<img class="img-fluid" src="../img/landingpage.png" style="width: 50%;">
+<img class="img-fluid" src="../img/userprofile.png" style="width: 50%;">
 
 
 # Source Code
