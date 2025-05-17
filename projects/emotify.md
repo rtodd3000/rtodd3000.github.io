@@ -12,7 +12,7 @@ labels:
 summary: "My team developed a website with a program that makes a spotify playlist for you based on your current facial expression that won first place in the 2023 SacHacks hackathon competition."
 ---
 
-<img class="img-fluid" src="../img/Smiley.svg.png">
+<img class="img-fluid" src="../img/Smiley.svg.png" style="width: 50%;">
 
 We have never heard of a concept where a program creates a playlist for you based on your current emotions, so we decided that Emotify would be a fun and innovative project to code. It gives the user the option to let their computers take the wheel and recommend them songs based on their current moods. It gives a playlist of usually around 10 songs and allows users to discover music in different genres that they may have never heard before. The possibilities are endless and I encourage many people to try it out! 
 
