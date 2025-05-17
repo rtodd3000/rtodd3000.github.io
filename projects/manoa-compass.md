@@ -13,10 +13,8 @@ labels:
 summary: "For our ICS 314 final project, my team and I developed an interactive website for UH students. Users can create a personalized profile by selecting their interests, comfort levels, major, and more. Based on this information, the site recommends relevant clubs and events using an AI-powered API. The recommendations update daily to reflect new events and opportunities on campus."
 ---
 
-<img class="img-fluid" src="../img/">
-
 # Project Overview
-Manoa Compass is a web application developed by myself and 4 other students built for the purpose of helping students at the University of Hawaiʻi at Mānoa view the different clubs and events Manoa has to offer... however there is a twist. Thanks to our AI integration from Gemini, users create specialized profiles that are read and matched to events and clubs that match the user's preferred profile. Information is scraped via official University sites and provides a streamlined expereience for students to easily get involved on campus.
+Manoa Compass is a web application developed by myself and 4 other students built for the purpose of helping students at the University of Hawaiʻi at Mānoa view the different clubs and events Manoa has to offer... however there is a twist. Thanks to our AI integration from Gemini, users create specialized profiles that are read and matched to events and clubs that match the user's preferred profile. Information is scraped via official University sites and provides a streamlined experience for students to easily get involved on campus.
 
 # Key Features
 - Onboarding flow to capture user data
